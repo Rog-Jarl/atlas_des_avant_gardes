@@ -1610,5 +1610,68 @@
         "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
       }
     ]
+  },
+  {
+    "id": "f-klima-nietzsche",
+    "type": "relation_intellectuelle",
+    "subject": "klima",
+    "object": "nietzsche",
+    "label": "Affinités philosophiques autour du sujet et de la volonté",
+    "status": "a_comparer",
+    "evidence": []
+  },
+  {
+    "id": "f-kraus-lichtenberg",
+    "type": "relation_intellectuelle",
+    "subject": "kraus",
+    "object": "lichtenberg",
+    "label": "Satire, aphorisme et critique des automatismes du langage",
+    "status": "a_comparer",
+    "evidence": []
+  },
+  {
+    "id": "f-mishima-nietzsche",
+    "type": "relation_intellectuelle",
+    "subject": "mishima",
+    "object": "nietzsche",
+    "label": "Comparaison autour du corps, de la valeur et de la mort, sans postuler une filiation directe",
+    "status": "a_comparer",
+    "evidence": []
+  },
+  {
+    "id": "f-vaneigem-debord",
+    "type": "relation_intellectuelle",
+    "subject": "vaneigem",
+    "object": "guy-debord",
+    "label": "Membres de l'Internationale situationniste; approches distinctes de la critique sociale",
+    "status": "atteste",
+    "evidence": []
+  },
+  {
+    "id": "f-drieu-celine",
+    "type": "relation_intellectuelle",
+    "subject": "drieu",
+    "object": "celine",
+    "label": "Comparaison littéraire et politique de deux écrivains controversés de l'entre-deux-guerres",
+    "status": "a_comparer",
+    "evidence": []
+  },
+  {
+    "id": "f-shestov-nietzsche",
+    "type": "relation_intellectuelle",
+    "subject": "shestov",
+    "object": "nietzsche",
+    "label": "Lecture philosophique de Nietzsche par Chestov",
+    "status": "atteste",
+    "evidence": []
+  },
+  {
+    "id": "f-bourdieu-benjamin",
+    "type": "relation_intellectuelle",
+    "subject": "bourdieu",
+    "object": "walter-benjamin",
+    "label": "Comparaison sur culture, domination et reproduction symbolique",
+    "status": "a_comparer",
+    "evidence": []
   }
 ]

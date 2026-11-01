@@ -20559,5 +20559,362 @@
       "Dora Maar, catalogues du Centre Pompidou et du Centre de la photographie."
     ],
     "groups": []
+  },
+  {
+    "id": "scelsi",
+    "name": "Giacinto Scelsi",
+    "years": "1905–1988",
+    "group": "Musique contemporaine",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Musique contemporaine",
+    "bio": "Compositeur et poète italien, Scelsi développe à partir des années 1950 une musique centrée sur la vie intérieure du son, les micro-intervalles, les battements et les harmoniques. Ses œuvres transforment parfois une hauteur unique en matière mouvante. Il enregistrait ses improvisations, ensuite transcrites et développées avec des collaborateurs, ce qui a suscité des débats sur l'attribution précise du travail compositionnel. Sa pensée associe recherche acoustique, poésie et références au zen.",
+    "works": [
+      "Quattro pezzi su una nota sola (1959)",
+      "Hurqualia (1960)",
+      "Anahit (1965)",
+      "Uaxuctum (1966)",
+      "Okanagon (1968)",
+      "Il sogno 101"
+    ],
+    "bibliography": [
+      "Quattro pezzi su una nota sola (1959)",
+      "Hurqualia (1960)",
+      "Anahit (1965)",
+      "Uaxuctum (1966)",
+      "Okanagon (1968)",
+      "Il sogno 101"
+    ],
+    "groups": []
+  },
+  {
+    "id": "klima",
+    "name": "Ladislav Klíma",
+    "years": "1878–1928",
+    "group": "Philosophie et littérature",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie et littérature",
+    "bio": "Écrivain et philosophe tchèque, Klíma construit une œuvre provocatrice et grotesque, mêlant solipsisme, volonté absolue et fiction. Il pousse jusqu'à l'absurde l'idée que le sujet peut se poser comme créateur de sa propre réalité. Longtemps marginal, il est devenu une figure singulière de la modernité tchèque.",
+    "works": [
+      "Svět jako vědomí a nic (1904)",
+      "Utrpení knížete Sternenhocha (1928)",
+      "Traktáty a diktáty (posthume)"
+    ],
+    "bibliography": [
+      "Svět jako vědomí a nic (1904)",
+      "Utrpení knížete Sternenhocha (1928)",
+      "Traktáty a diktáty (posthume)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "lichtenberg",
+    "name": "Georg Christoph Lichtenberg",
+    "years": "1742–1799",
+    "group": "Aphorisme et Lumières",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Aphorisme et Lumières",
+    "bio": "Physicien, satiriste et maître de l'aphorisme allemand, Lichtenberg enseigne à Göttingen et observe avec ironie les prétentions de la raison et les illusions de la connaissance. Ses carnets posthumes, les Sudelbücher, mêlent intuition scientifique, psychologie, humour et scepticisme, et ont profondément marqué la tradition moderne du fragment.",
+    "works": [
+      "Sudelbücher (carnets posthumes)",
+      "Aphorismen (sélections posthumes)",
+      "Briefe (correspondance)"
+    ],
+    "bibliography": [
+      "Sudelbücher (carnets posthumes)",
+      "Aphorismen (sélections posthumes)",
+      "Briefe (correspondance)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "kraus",
+    "name": "Karl Kraus",
+    "years": "1874–1936",
+    "group": "Satire et critique du langage",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Satire et critique du langage",
+    "bio": "Écrivain et polémiste viennois, Kraus fonde Die Fackel, revue qu'il dirige presque seul pour attaquer la presse, le nationalisme et la dégradation du langage public. Son drame Les Derniers Jours de l'humanité compose, à partir de discours et de documents, une accusation contre la guerre et la civilisation médiatique qui l'accompagne.",
+    "works": [
+      "Die Fackel (1899–1936)",
+      "Die letzten Tage der Menschheit (1918–1919)",
+      "Sprüche und Widersprüche (1909)"
+    ],
+    "bibliography": [
+      "Die Fackel (1899–1936)",
+      "Die letzten Tage der Menschheit (1918–1919)",
+      "Sprüche und Widersprüche (1909)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "guicciardini",
+    "name": "Francesco Guicciardini",
+    "years": "1483–1540",
+    "group": "Histoire et pensée politique",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Histoire et pensée politique",
+    "bio": "Historien, diplomate et homme d'État florentin, Guicciardini est l'un des grands analystes politiques de la Renaissance italienne. Son expérience des guerres d'Italie nourrit une pensée attentive aux circonstances, aux intérêts et à la singularité des situations, plutôt qu'aux règles universelles. Son réalisme complète et contredit parfois celui de son contemporain Machiavel.",
+    "works": [
+      "Storia d'Italia (rédigée vers 1537–1540, publiée en 1561)",
+      "Ricordi (maximes et réflexions)",
+      "Dialogo del reggimento di Firenze"
+    ],
+    "bibliography": [
+      "Storia d'Italia (rédigée vers 1537–1540, publiée en 1561)",
+      "Ricordi (maximes et réflexions)",
+      "Dialogo del reggimento di Firenze"
+    ],
+    "groups": []
+  },
+  {
+    "id": "mishima",
+    "name": "Yukio Mishima",
+    "years": "1925–1970",
+    "group": "Littérature japonaise",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Littérature japonaise",
+    "bio": "Romancier, dramaturge et essayiste japonais, Mishima met en scène les conflits entre beauté, sensualité, discipline, mort et transformation du Japon d'après-guerre. Son œuvre associe une prose classique à des obsessions modernes; sa mise en scène publique du corps et de la politique culmina dans sa mort par seppuku en 1970. Sa trajectoire politique doit être étudiée sans réduire l'ensemble de son œuvre à son geste final.",
+    "works": [
+      "Confessions d'un masque (1949)",
+      "Le Tumulte des flots (1954)",
+      "Le Pavillon d'or (1956)",
+      "Le Soleil et l'Acier (1968)",
+      "La Mer de la fertilité (1965–1970)"
+    ],
+    "bibliography": [
+      "Confessions d'un masque (1949)",
+      "Le Tumulte des flots (1954)",
+      "Le Pavillon d'or (1956)",
+      "Le Soleil et l'Acier (1968)",
+      "La Mer de la fertilité (1965–1970)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "nietzsche",
+    "name": "Friedrich Nietzsche",
+    "years": "1844–1900",
+    "group": "Philosophie",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie",
+    "bio": "Philosophe allemand, Nietzsche critique la morale, la religion et la métaphysique par une écriture faite de traités, de fragments et d'aphorismes. Généalogie, ressentiment, éternel retour et volonté de puissance ont profondément marqué la pensée moderne et reçu des interprétations contradictoires. Il importe de distinguer ses textes des appropriations politiques ultérieures, notamment celles de sa sœur et des milieux nationalistes.",
+    "works": [
+      "La Naissance de la tragédie (1872)",
+      "Humain, trop humain (1878–1880)",
+      "Le Gai Savoir (1882/1887)",
+      "Ainsi parlait Zarathoustra (1883–1885)",
+      "Par-delà bien et mal (1886)",
+      "La Généalogie de la morale (1887)"
+    ],
+    "bibliography": [
+      "La Naissance de la tragédie (1872)",
+      "Humain, trop humain (1878–1880)",
+      "Le Gai Savoir (1882/1887)",
+      "Ainsi parlait Zarathoustra (1883–1885)",
+      "Par-delà bien et mal (1886)",
+      "La Généalogie de la morale (1887)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "maurice-pons",
+    "name": "Maurice Pons",
+    "years": "1925–2016",
+    "group": "Littérature française",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Littérature française",
+    "bio": "Écrivain et traducteur français, Pons cultive une œuvre insolite où le quotidien glisse vers le fantastique, la cruauté et l'absurde. Son roman Les Saisons, longtemps confidentiel avant de devenir un livre culte, déploie une fable de l'enfermement et de la catastrophe.",
+    "works": [
+      "Métrobate (1951)",
+      "La Mort d'Éros (1953)",
+      "Les Saisons (1965)",
+      "Rosa (1967)"
+    ],
+    "bibliography": [
+      "Métrobate (1951)",
+      "La Mort d'Éros (1953)",
+      "Les Saisons (1965)",
+      "Rosa (1967)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "vaneigem",
+    "name": "Raoul Vaneigem",
+    "years": "1934–2025",
+    "group": "Situationnisme et critique sociale",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Situationnisme et critique sociale",
+    "bio": "Écrivain et philosophe belge, membre de l'Internationale situationniste à partir de 1961, Vaneigem critique la marchandise, l'autorité et l'intériorisation de la domination. Là où Guy Debord privilégie l'analyse du spectacle, Vaneigem insiste sur la subjectivité, le désir et la possibilité de réinventer la vie. Il quitte l'Internationale situationniste en 1970, mais poursuit une œuvre politique abondante.",
+    "works": [
+      "Traité de savoir-vivre à l'usage des jeunes générations (1967)",
+      "Le Livre des plaisirs (1979)",
+      "Adresse aux vivants sur la mort qui les gouverne et l'opportunité de s'en défaire (1990)"
+    ],
+    "bibliography": [
+      "Traité de savoir-vivre à l'usage des jeunes générations (1967)",
+      "Le Livre des plaisirs (1979)",
+      "Adresse aux vivants sur la mort qui les gouverne et l'opportunité de s'en défaire (1990)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "drieu",
+    "name": "Pierre Drieu La Rochelle",
+    "years": "1893–1945",
+    "group": "Littérature et politique",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Littérature et politique",
+    "bio": "Romancier et essayiste français, ancien combattant de 1914–1918, Drieu explore la crise de l'homme moderne et le déclin européen. Il se rapproche du fascisme dans les années 1930, dirige la Nouvelle Revue française sous l'Occupation et collabore avec les autorités allemandes. Son œuvre doit être située dans cette trajectoire politique compromise.",
+    "works": [
+      "La Comédie de Charleroi (1934)",
+      "Rêveuse bourgeoisie (1937)",
+      "Gilles (1939)",
+      "L'Homme à cheval (1943)",
+      "Journal 1939–1945 (posthume)"
+    ],
+    "bibliography": [
+      "La Comédie de Charleroi (1934)",
+      "Rêveuse bourgeoisie (1937)",
+      "Gilles (1939)",
+      "L'Homme à cheval (1943)",
+      "Journal 1939–1945 (posthume)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "shestov",
+    "name": "Lev Shestov",
+    "years": "1866–1938",
+    "group": "Philosophie existentielle",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie existentielle",
+    "bio": "Philosophe russe en exil, Chestov s'attaque à la prétention de la raison à imposer des vérités nécessaires. Lisant Dostoïevski, Nietzsche et Kierkegaard, il oppose aux systèmes l'expérience de la liberté, de l'angoisse et de l'exception. Son œuvre se situe à la frontière de la philosophie et de l'essai littéraire.",
+    "works": [
+      "La Philosophie de la tragédie (1903)",
+      "Les Révélations de la mort (1910)",
+      "Sur la balance de Job (1929)",
+      "Athènes et Jérusalem (1938)"
+    ],
+    "bibliography": [
+      "La Philosophie de la tragédie (1903)",
+      "Les Révélations de la mort (1910)",
+      "Sur la balance de Job (1929)",
+      "Athènes et Jérusalem (1938)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "bourdieu",
+    "name": "Pierre Bourdieu",
+    "years": "1930–2002",
+    "group": "Sociologie",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Sociologie",
+    "bio": "Sociologue français, Bourdieu élabore une théorie des pratiques articulant habitus, capitaux, champs et reproduction sociale. Ses enquêtes sur l'école, les goûts et les institutions montrent comment les inégalités se perpétuent aussi par des mécanismes symboliques vécus comme naturels. Son travail empirique a profondément transformé la sociologie et nourri des débats sur la domination et l'intellectuel engagé.",
+    "works": [
+      "Les Héritiers (avec Jean-Claude Passeron, 1964)",
+      "La Reproduction (avec Jean-Claude Passeron, 1970)",
+      "Esquisse d'une théorie de la pratique (1972)",
+      "La Distinction (1979)",
+      "Le Sens pratique (1980)",
+      "La Misère du monde (dir., 1993)"
+    ],
+    "bibliography": [
+      "Les Héritiers (avec Jean-Claude Passeron, 1964)",
+      "La Reproduction (avec Jean-Claude Passeron, 1970)",
+      "Esquisse d'une théorie de la pratique (1972)",
+      "La Distinction (1979)",
+      "Le Sens pratique (1980)",
+      "La Misère du monde (dir., 1993)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter S. Thompson",
+    "years": "1937–2005",
+    "group": "Journalisme gonzo",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Journalisme gonzo",
+    "bio": "Journaliste et écrivain américain, Thompson développe le journalisme gonzo, où l'observateur devient partie intégrante de l'événement. Son style halluciné et satirique documente la contre-culture et la politique américaine. Son œuvre est indissociable de la performance du personnage public qu'il construit, mais ne se limite pas à l'excès biographique.",
+    "works": [
+      "Hell's Angels (1967)",
+      "Fear and Loathing in Las Vegas (1971)",
+      "Fear and Loathing: On the Campaign Trail '72 (1973)",
+      "The Great Shark Hunt (1979)"
+    ],
+    "bibliography": [
+      "Hell's Angels (1967)",
+      "Fear and Loathing in Las Vegas (1971)",
+      "Fear and Loathing: On the Campaign Trail '72 (1973)",
+      "The Great Shark Hunt (1979)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "dannunzio",
+    "name": "Gabriele D'Annunzio",
+    "years": "1863–1938",
+    "group": "Littérature italienne",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Littérature italienne",
+    "bio": "Poète, romancier et dramaturge italien, D'Annunzio façonne une figure d'écrivain-spectacle, cultivant le luxe esthétique, l'érotisme et le mythe de soi. Son aventure politique à Fiume en 1919–1920 mêle nationalisme, cérémonial et mobilisation des masses; plusieurs de ses gestes ont été repris par le fascisme, malgré des relations complexes avec Mussolini.",
+    "works": [
+      "Il piacere (Le Plaisir, 1889)",
+      "Il trionfo della morte (1894)",
+      "Il fuoco (Le Feu, 1900)",
+      "Laudi (1903–1912)",
+      "Notturno (1921)"
+    ],
+    "bibliography": [
+      "Il piacere (Le Plaisir, 1889)",
+      "Il trionfo della morte (1894)",
+      "Il fuoco (Le Feu, 1900)",
+      "Laudi (1903–1912)",
+      "Notturno (1921)"
+    ],
+    "groups": []
+  },
+  {
+    "id": "valery",
+    "name": "Paul Valéry",
+    "years": "1871–1945",
+    "group": "Poésie et réflexion esthétique",
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Poésie et réflexion esthétique",
+    "bio": "Poète, essayiste et penseur français, Valéry renouvelle la poésie symboliste tout en étudiant le fonctionnement de l'esprit. Ses Cahiers explorent perception, langage, création, mathématiques et conscience. Il s'intéresse autant aux conditions de fabrication de l'œuvre qu'à son résultat, et occupe une place centrale dans la réflexion moderne sur la forme artistique.",
+    "works": [
+      "La Jeune Parque (1917)",
+      "Charmes (1922), dont Le Cimetière marin",
+      "Eupalinos ou l'Architecte (1921)",
+      "Variété (1924–1944)",
+      "Monsieur Teste (édition augmentée, 1926)",
+      "Cahiers (édition posthume)"
+    ],
+    "bibliography": [
+      "La Jeune Parque (1917)",
+      "Charmes (1922), dont Le Cimetière marin",
+      "Eupalinos ou l'Architecte (1921)",
+      "Variété (1924–1944)",
+      "Monsieur Teste (édition augmentée, 1926)",
+      "Cahiers (édition posthume)"
+    ],
+    "groups": []
   }
 ]
